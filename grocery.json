@@ -1,0 +1,84 @@
+{
+    "list":[
+        {
+            "SlNo":"1",
+            "Item":"Rice",
+            "Quantity":"10",
+            "Unit":"Kilogram",
+            "Section":"Grocery",
+            "Notes":"Pavizham"
+        },
+        {
+            "SlNo":"2",
+            "Item":"Milk",
+            "Quantity":"1",
+            "Unit":"Litre",
+            "Section":"Dairy & Eggs",
+            "Notes":"Milma"
+        },
+        {
+            "SlNo":"3",
+            "Item":"Egg",
+            "Quantity":"3",
+            "Unit":"Crate",
+            "Section":"Dairy & Eggs",
+            "Notes":"Fresh"
+        },
+        {
+            "SlNo":"4",
+            "Item":"Fish",
+            "Quantity":"2",
+            "Unit":"Kilogram",
+            "Section":"Fish & Meat",
+            "Notes":"Fresh"
+        },
+        {
+            "SlNo":"5",
+            "Item":"Tomato",
+            "Quantity":"5",
+            "Unit":"Kilogram",
+            "Section":"Vegetable",
+            "Notes":"Fresh"
+        },
+        {
+            "SlNo":"6",
+            "Item":"Coffee powder",
+            "Quantity":"20",
+            "Unit":"Sachet",
+            "Section":"Beverage",
+            "Notes":"Nescafe"
+        },
+        {
+            "SlNo":"7",
+            "Item":"Sugar",
+            "Quantity":"2",
+            "Unit":"Kilogram",
+            "Section":"Grocery",
+            "Notes":"White"
+        },
+        {
+            "SlNo":"8",
+            "Item":"Dishwash Liquid",
+            "Quantity":"500",
+            "Unit":"Milli-litre",
+            "Section":"Cleaning Supplies",
+            "Notes":"Prill"
+        },
+        {
+            "SlNo":"9",
+            "Item":"Bread",
+            "Quantity":"1",
+            "Unit":"Loaf",
+            "Section":"Bakery",
+            "Notes":"Modern"
+        },
+        {
+            "SlNo":"10",
+            "Item":"Soap",
+            "Quantity":"5",
+            "Unit":"Number",
+            "Section":"Health & Beauty",
+            "Notes":"Pears"
+        }
+    ]
+}
